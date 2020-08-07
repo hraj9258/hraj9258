@@ -14,7 +14,7 @@
 [<img align="left" alt="@hraj9258 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="@hraj9258 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
+<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hraj9258)](https://hraj9258.github.io)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hraj9258&layout=compact&count_private=true)](https://hraj9258.github.io)
