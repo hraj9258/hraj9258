@@ -21,5 +21,5 @@
 
 [website]: https://hraj9258.github.io
 [instagram]: https://instagram.com/hraj9258
-[facebook]: https://facebook/hraj9258
+[facebook]: https://facebook.com/hraj9258
 [telegram]: https://t.me/hraj9258
