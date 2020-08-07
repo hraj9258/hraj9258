@@ -16,7 +16,7 @@
 <br>
 
 <a href="https://hraj9258.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hraj9258&show_icons=true" />
+  <img align="left" width=400px src="https://github-readme-stats.vercel.app/api?username=hraj9258&show_icons=true" />
 </a>
 <a href="https://hraj9258.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hraj9258&layout=compact&count_private=false" />
