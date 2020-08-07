@@ -16,8 +16,12 @@
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hraj9258)](https://hraj9258.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hraj9258&layout=compact&count_private=true)](https://hraj9258.github.io)
+<a href="https://hraj9258.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hraj9258&show_icons=true" />
+</a>
+<a href="https://hraj9258.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hraj9258&layout=compact&count_private=false" />
+</a>
 
 [website]: https://hraj9258.github.io
 [instagram]: https://instagram.com/hraj9258
