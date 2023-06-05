@@ -1,10 +1,9 @@
 # Hello, I'm Himanshu Raj 👋
 
 ## I would say I’m…
-- 🔭 A software developer based in Prayagraj, India.
+- 🔭 A Software Developer, Plateform Developer and Gamer based in Prayagraj, India.
 - 👯 I enjoy creating things that are practical, whether Website, Applications, Games or anything in between.
-- 🥅 2020 Goals: Figuring out what to do.....
-- ⚡ Fun fact: I'm very good at finding solutions to problems.
+- ⚡ Fun fact: I'm very good at problem solving.
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
